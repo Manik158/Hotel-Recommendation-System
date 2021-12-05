@@ -1,0 +1,2 @@
+# Hotel-Recommendation-System
+Hotel Recommendation System is online booking platform through which hoteliers and other providers can offer their products and booking services and users of the platform can use to make reservations as well find the best deal ideal hotels. When user will make reservation through our website, user is committed in a direct contractual relationship to the hoteliers unless specially stated. User communicates directly to the relevant providers and sends the email of confirmation through our website.
